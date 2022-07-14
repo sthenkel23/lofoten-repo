@@ -4,10 +4,6 @@ For the Anderszeit travels we equipped our car called 'Otto' with a bunch of thi
 
 ### Otto - The Swiss Army Knife
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # The idea and needs
 ## The travel style
